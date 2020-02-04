@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Suraj/Documents/ExtraCredit - MyVector/ConstVectorItr.h
+MyVector.h
+/Users/Suraj/Documents/ExtraCredit - MyVector/MyVector.h
+
+/Users/Suraj/Documents/ExtraCredit - MyVector/MyVector.h
+sstream
+-
+stdexcept
+-
+memory
+-
+algorithm
+-
+vector
+-
+ostream
+-
+ConstVectorItr.h
+/Users/Suraj/Documents/ExtraCredit - MyVector/ConstVectorItr.h
+VectorItr.h
+/Users/Suraj/Documents/ExtraCredit - MyVector/VectorItr.h
+
+/Users/Suraj/Documents/ExtraCredit - MyVector/VectorItr.h
+MyVector.h
+/Users/Suraj/Documents/ExtraCredit - MyVector/MyVector.h
+iostream
+-
+
+/Users/Suraj/Documents/ExtraCredit - MyVector/main.cpp
+string
+-
+iostream
+-
+vector
+-
+MyVector.h
+/Users/Suraj/Documents/ExtraCredit - MyVector/MyVector.h
+
