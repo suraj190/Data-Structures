@@ -1,4 +1,4 @@
-# ECS40 - Software developement and Object oriented programming
-Coding assignments for ECS40 where we transitioned from C to C++
+Software developement and Object oriented programming
+
 
 Final project is 'Monopoly'
